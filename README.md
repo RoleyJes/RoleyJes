@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Jessica 👋
 
-<!--
-**RoleyJes/RoleyJes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Software Engineer focused on building production-ready web applications.
 
-Here are some ideas to get you started:
+## Tech Stack
+React
+Vue.js
+JavaScript (ES6+)
+Tailwind CSS
+Redux Toolkit
+Pinia
+TanStack Query
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### Luxorra – E-commerce SPA
+Vue.js · Pinia · TanStack Query · Tailwind
+
+Live: https://luxorra.vercel.app  
+Code: https://github.com/RoleyJes/luxorra
+
+### Money-Tap – Fintech Dashboard
+React · Redux Toolkit · Tailwind
+
+Live: https://money-tap.vercel.app  
+Code: https://github.com/RoleyJes/money-tap
+
+### Super-Sound – Interactive Platform
+React · Redux Toolkit · Framer Motion
+
+Live: https://super-sound.vercel.app  
+Code: https://github.com/RoleyJes/super-sound
