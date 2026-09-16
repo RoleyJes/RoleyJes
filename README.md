@@ -13,6 +13,17 @@ TanStack Query
 
 ## Featured Projects
 
+### OREXON LIMITED — Corporate Website
+Next.js · TypeScript · Tailwind CSS · Framer Motion
+
+Live: [https://luxorra.vercel.app](https://orexon-website.vercel.app/)  
+Code: https://github.com/RoleyJes/orexon
+
+### HEALTHMATE — Healthcare Web Application 
+Next.js · TypeScript · Tailwind CSS · TanStack Query · Axios · Framer Motion
+
+Live: https://healthmate.archsaintnexus.com/ 
+
 ### Luxorra – E-commerce SPA
 Vue.js · Pinia · TanStack Query · Tailwind
 
