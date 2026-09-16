@@ -17,7 +17,7 @@ TanStack Query
 Next.js · TypeScript · Tailwind CSS · Framer Motion
 
 Live: https://orexon-website.vercel.app/
-Code: https://github.com/RoleyJes/orexon
+Code: https://github.com/RoleyJes/orexon-website
 
 ### HEALTHMATE — Healthcare Web Application 
 Next.js · TypeScript · Tailwind CSS · TanStack Query · Axios · Framer Motion
