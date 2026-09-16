@@ -16,7 +16,7 @@ TanStack Query
 ### OREXON LIMITED — Corporate Website
 Next.js · TypeScript · Tailwind CSS · Framer Motion
 
-Live: [https://luxorra.vercel.app](https://orexon-website.vercel.app/)  
+Live: https://orexon-website.vercel.app/
 Code: https://github.com/RoleyJes/orexon
 
 ### HEALTHMATE — Healthcare Web Application 
@@ -29,6 +29,11 @@ Vue.js · Pinia · TanStack Query · Tailwind
 
 Live: https://luxorra.vercel.app  
 Code: https://github.com/RoleyJes/luxorra
+
+### RUBY — Financial Services Marketing Website
+React · React Router · Tailwind CSS
+
+Live: https://myruby.io  
 
 ### Money-Tap – Fintech Dashboard
 React · Redux Toolkit · Tailwind
